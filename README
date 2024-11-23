@@ -4,9 +4,9 @@ This project represents an assembler for a custom machine with 4096 bytes and 8 
 
 files:
 
-  * assembler.c (Miriam & Racheli) - Contains the main function ,opens and closes input files and if input files are         valid creates output files.
+  * assembler.c (Miriam & Racheli) - Contains the main function ,opens and closes input files and if input files arevalid creates output files.
     
-  * pre_processor.c (Rachli) - Contains pre processor function witch macros and check macro validation.
+  * pre_processor.c (Racheli) - Contains pre processor function witch macros and check macro validation.
 
   * first_pass.c (Miriam) - Contains functions witch go over input and checks validation according to project's inst.
     and if invalid reports error and moves on to next line. Puts valid info into dedicated Structers.
